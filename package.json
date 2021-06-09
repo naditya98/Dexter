@@ -1,6 +1,9 @@
 {
   "name": "dexter",
   "version": "0.0.0",
+  "engines": {
+    "node": "v14.15.4"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
